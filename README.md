@@ -1,4 +1,7 @@
-# aorb (aorb)
+# aorb (aorb front-end)
+
+지뚱땅의 비밀 프로젝트입니다 프론트 너무 어려워잉
+프론트개발자가 아니니 이상하면 태클걸어줘잉
 
 aorb front-end
 
