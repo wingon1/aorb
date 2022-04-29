@@ -1,0 +1,8 @@
+/* app global css */
+.q-linear-progress__track{opacity: 0.9;}
+.q-message-stamp{color: #656565; font-size: 0.5rem}
+.q-message-text-content--received .q-message-stamp{text-align: right}
+.q-field--outlined .q-field__control:hover:before{border-color: #ececec;}
+.q-field--outlined .q-field__control:hover{border-color: #ececec;}
+.q-field--outlined{border-color: #ececec !important}
+.q-field--outlined .q-field__control:before{border-color: #ececec;}
