@@ -6,3 +6,10 @@
 .q-field--outlined .q-field__control:hover{border-color: #ececec;}
 .q-field--outlined{border-color: #ececec !important}
 .q-field--outlined .q-field__control:before{border-color: #ececec;}
+@font-face {
+  font-family: NotoSansKR-Light;
+  src: url('/public/font/NotoSansKR-Light.woff');
+}
+body{
+  font-family: NotoSansKR-Light;
+}
