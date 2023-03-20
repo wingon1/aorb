@@ -1,5 +1,7 @@
 # aorb (aorb front-end)
 
+밸런스게임 A OR B ( 프론트 )
+
 
 aorb front-end
 
