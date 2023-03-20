@@ -34,3 +34,7 @@ quasar build
 
 ### Customize the configuration
 See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-webpack/quasar-config-js).
+
+
+
+![KakaoTalk_20220429_231233127](https://user-images.githubusercontent.com/34016906/226340535-7b01ca54-14d3-4212-9f61-8eb1b20e4393.png)
